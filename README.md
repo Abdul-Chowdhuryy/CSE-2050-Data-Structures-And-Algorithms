@@ -12,7 +12,7 @@ This course dives into fundamental data structures and algorithms, teaching you 
 
 ## 🎯 Prerequisites
 
-- CSE 1100 or equivalent programming experience (Java or C++)
+- CSE 1010 or equivalent programming experience (Java or Python)
 - Basic understanding of programming concepts and problem-solving
 
 ---
